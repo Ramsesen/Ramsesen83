@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Meyer",
+  "age": 44,
+  "address": {
+    "street": "Zokob Drive",
+    "city": "Egfuma",
+    "state": "CT",
+    "zip": "99767"
+  },
+  "contact": {
+    "phone": "(956) 226-3559",
+    "servicePhone": "800656481"
+  },
+  "birthday": "1999-06-28T06:19:33.624Z",
+  "ip": "72.98.236.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Jej ed urwa idnuvmej nodcazo fukhatek me cabcetus imatofve nezfeme ka voute hofob paijico. Vafig kasuwa lehe jirubda rohekho morerben sa rin dipsa gib ca kodsow hadpuwnez ce keboptup limwanu horgevog vazelfe. Wikikte lu leg nisnabtu gacubsar awieg mar fabej ciliniem latiji essa tavrerluh jimpor mit awege. Je papi biplihcu lolom zifnonjov sob cocofav owude ge modavo rol pilo hipin eccuzuli. Uj kodfa miju makujed vuh ma nides ifepam ok inoweta li kol mu potejet rasoiw ca su ke. Higa es ico nuji lomrosif lemhugah pim ca wudiv bamcuda figaf ohe.",
+    "bio": "Paagu miveraza co uz tulfuwme cerbij za hugo sesidju zudice humruz picim tuhwu cefwil wo. Gofutduh bel so lubitowe pifdebgeg vusa feb fisjiefu ziebgiv rezhenlub neabi pi kaz ji dadon fumor hilme. Riki vawju mumugocek hietada he cuz bof raj kergif pu jaapiina zufecol wiphije me buffuvik bumgonho vuagomip azwaek."
+  },
+  "apiKey": "3033cd0d476944d10180d3c8add51d5e0d4e1838456e8dd90c363f6034a45434",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
