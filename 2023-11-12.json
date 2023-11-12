@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Poole",
+  "age": 52,
+  "address": {
+    "street": "Kefsu Extension",
+    "city": "Pafojahi",
+    "state": "MN",
+    "zip": "73872"
+  },
+  "contact": {
+    "phone": "(518) 680-4265",
+    "servicePhone": "800779539"
+  },
+  "birthday": "2004-05-30T06:18:00.100Z",
+  "ip": "246.239.136.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Vim zefbo obavvod heete risopcej duko lo hivbetfir wizownu en zopov fek ewa nucul. Vek fezoje uh jut gadomu cazlam me risobuow josibale wahufhir uro niuw coide loda. Hew web minoizi ki uvecujena akis fipbo zadih te secma awa gizo vekmucza elirojej. Ti conoha dufub diawzut ki uhukufwut gapeheb dosbi kev su ladkoed nolomas. Cufel va jorul rugponis se disre indo gaub bacsooce fa tiame lisuli funuv.",
+    "bio": "Ed vejughom mujiri ekaagavus tirregvo zu zub icduc ama muka kuc ri zetur fed lu guzanoz bod. Namezo huhforuma su vav fu livhuhaz ha upbebveg hu eksola kijli vopacwiw. Cihgu sicpesez tunojfa afe gamurtom laf bouvo vocu wilo du kodla ak. Derfisap kiva fubza gu numnufa lus hazceci wiveka ev fe kep ta hevlet dipip. Rugris keutja condake za suz du kuhmugud mafpedlum dasuumo vu hudof kepuf tel. Ajehoet ac faba kudcok opobo mitlaza piizo vi bedamur ewew rurze pituki edadaf hef."
+  },
+  "apiKey": "d6dd22a8554f8295b8c81ee05d3940f9f1f1913bd60de365585a585208cd39f8",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
