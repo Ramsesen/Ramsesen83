@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Bradley",
+  "age": 50,
+  "address": {
+    "street": "Cihco Junction",
+    "city": "Nonfahut",
+    "state": "AR",
+    "zip": "62749"
+  },
+  "contact": {
+    "phone": "(741) 410-2441",
+    "servicePhone": "800664176"
+  },
+  "birthday": "1999-01-13T07:25:20.195Z",
+  "ip": "210.84.112.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Kenru piimuvo lacapdo janauvi di maurial nimi zabog efcul dib usridi orcus homiveh mil. Zabu mapkij ejseszop vomdec bowegse bivuja feicur ulunu tukijek bul kulesov ri incagko jojfowfov limot kiinzo bo ostow. Mi kazicu adaicti gaewodun sok genut jorepu upbih emletdi tekez cu te ipuemo.",
+    "bio": "Mupeus lehu ofipic zop rili favek igzitim vubidef hip wag kef lowir dil su ule muwemmi meim. Tizabo wulingi iko miwfi lofi wus patfifef pogkodit wegsu furju birju verot hantowcu. Toperfa kawo pedki siunari odtef mu ho lenulkos impimho sathazzoh fig vutcando. Ocmusluw few noapjim tav mo famba henapi hodwoncu oh ivses ojegille icipugob ehih lelenha su."
+  },
+  "apiKey": "d9730550e9813aec0e5d35b6fd10870f7e948421be13cc0d239a9f6434e3f103",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
