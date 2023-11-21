@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Underwood",
+  "age": 50,
+  "address": {
+    "street": "Ekbuk Point",
+    "city": "Urogamda",
+    "state": "LA",
+    "zip": "64721"
+  },
+  "contact": {
+    "phone": "(940) 218-4895",
+    "servicePhone": "800956155"
+  },
+  "birthday": "1994-06-17T02:47:36.447Z",
+  "ip": "39.252.234.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Heco foiti mirazuca ifizijiz lakdu imi soode judowuz sim wu betun efu ec ralom gizgodap fu. Ba esnojo lohu hen map nedawef egieropov hangafo cokoj we wednesgub sug zawupe la tocop diwjuno da. Ojabudcub cohsiruwe pipfabew sailju vo rure ho nohtervup gozafig gijvat roco pegu gepebor pecdivaf formel rocok.",
+    "bio": "Mub tuufi ukob uteifule vupepug oblofva mu jufod muuvi cirpef lozes ubi bujlo. Wi juifuvej kuimo doozben koduhno neholo melvisob mod pepsev jarof ecitictut leb gazcun kigas duakip. Mamokte vuunpe wavwom ivezombe bilceti docegzep jiriraw bej daolawa cajueke eg lunpu luf."
+  },
+  "apiKey": "40abfdf570645713803320ec0550721b395020ac67b9569329b12e14d57e4b92",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
