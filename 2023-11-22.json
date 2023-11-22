@@ -1,0 +1,26 @@
+{
+  "name": "Evan Jenkins",
+  "age": 21,
+  "address": {
+    "street": "Zeful Terrace",
+    "city": "Rerpemiv",
+    "state": "NY",
+    "zip": "64750"
+  },
+  "contact": {
+    "phone": "(730) 900-5779",
+    "servicePhone": "800652523"
+  },
+  "birthday": "2000-08-26T16:27:09.990Z",
+  "ip": "160.176.233.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Tik viczisi vak volu isaza maz arvum redobib awiwis mehdi ihwarno nazsaevi sefec rapsatoz. Fovu immih weli vic najado ze mo onafejeh wuigbo maufhup weipa eddike dig onohej ali jabdozel let dosan. Ijuahare de hoolujeb gej kilafjev ta jebpapci si wim fotbuaw setnomcol uhvi capve gekdajul uc itfapa imi fet. Fimal ruserna jo zakjelza mecaci pi vusupmoh gas adahowna bufzu etjot lomuzi me dasa sunzanli fu visiw. Wefukowoc wo pazewkow tevvuake naste gapajpe uc bar ezubu daz aj zejsu dup iva toloc sazecur zum kibhena.",
+    "bio": "Onwo zushava elejun ug tarop ifeciwa fuc cukulbez delu zi pe he ran golvigbic. Koh hizo talke vaape upitoaba gubet ja pec wincu raralto eguitelo mu elututoz alhiuro nu uche zelwe. Colbac upotunboh jicejain durbazof abat maiwurut va ni higug sac du civof roh uku. Vuvfoh co nilu sazomaf giaru bomas kiwjo roiki pivam parloje fahsam lah ciazjup nabo jijda. Reptu rezhed obpe woiv ozpos gem lerun jat enwina uzevroc ici bulme vimamtil eki wecalco."
+  },
+  "apiKey": "ea887df301822f74a9c71cd855b121ef7cfb7b411ff9507c656923fccb0c2e82",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
