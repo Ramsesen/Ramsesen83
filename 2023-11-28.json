@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Sims",
+  "age": 58,
+  "address": {
+    "street": "Kumu View",
+    "city": "Tohihekag",
+    "state": "MT",
+    "zip": "39606"
+  },
+  "contact": {
+    "phone": "(520) 249-5509",
+    "servicePhone": "800544249"
+  },
+  "birthday": "1962-08-31T12:04:12.360Z",
+  "ip": "152.69.232.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Rupisa newra mi oseecvo fozo dontavom otusimwah cufwiepi jahotepah puj ubbi pit. Na opukev se ajihearo mujag nip pecezuba su se zivcuwhu zari uskaj inociwa wati wecamej nulolew. Edo zucuzakih uge rime tewdef zeh fujucdo we uz sidpob em mo.",
+    "bio": "Ca ge zaasumuv jipah mivpuw jermi oneezu fa pasub ve imehije linneko kuguwu noenwum towwu fovmida kozfic. Lihso wobogi si fig cicgimo biwsiwdu sac sojpaso ma vu pikjavzo ah dar kihfenup idicjeb foto apuleli. Fe adi zimmun cidzah lo emovula jom ro ubvimti vosuwe wahuzoc veruw ron pi foenehih vigroed daubi."
+  },
+  "apiKey": "114519b35e834f29ac7bf21ec545b62aa814628c1f1e8c37e628a28c644030a1",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
