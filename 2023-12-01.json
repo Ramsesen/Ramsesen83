@@ -1,0 +1,26 @@
+{
+  "name": "Iva Paul",
+  "age": 29,
+  "address": {
+    "street": "Imafiz Loop",
+    "city": "Vituze",
+    "state": "TN",
+    "zip": "86959"
+  },
+  "contact": {
+    "phone": "(218) 969-1332",
+    "servicePhone": "800845877"
+  },
+  "birthday": "2002-03-16T10:45:36.321Z",
+  "ip": "110.9.205.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Ini biad tetopi tit cinac ezabaas la tuvze fezigvi nuwin naba vawo buomukin pepbe un zilo. Nociceb hettotgaz olocanlo gu suw delah fe sab ovarurvi pulos izalatit supunu ezzite sug muwa toob naufe. Ownejiv uge bofnon nac zinahdov ublo mipodi bajoc pepekos zupogka jugwaab ci ruac iciic etti eja elimuuni pinviswu. Dupwepsom jisdop into cu te bu jivewuw sivolaw ulalomfu rejwez posiz ib us.",
+    "bio": "Jelbupuh ofufar juhpugi fiatuvu epa re rinesu gekidu cubur us luc noso bipto et awtotas colle kudeefo. Suddo ga rapipi mator nunradja pi jatjehes cuuvu nuride gov uduvbe mazuad evaubefiw. En forpipuk dewepzok gi wejosur efzulna dah puwukevo ipa huh cizho sa nerinhuk dalhi kewgep zu mi."
+  },
+  "apiKey": "f4bd1e102a6ef6a0a3350ee4737c29ea0dd0c78dc23be1c08c1c57c9b6559c99",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
