@@ -1,0 +1,26 @@
+{
+  "name": "Walter Tucker",
+  "age": 23,
+  "address": {
+    "street": "Ulafu Circle",
+    "city": "Nawnufono",
+    "state": "SC",
+    "zip": "75988"
+  },
+  "contact": {
+    "phone": "(247) 903-9798",
+    "servicePhone": "800338365"
+  },
+  "birthday": "1992-09-16T02:20:21.043Z",
+  "ip": "229.136.132.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Eha foh kasepiso bonici ta il heaza suj celse aku ceel hij. Tam aniesil gij dofaip zuufa egumigon cozmizvof lukig gacka bisovzi vih ecizo retnas midbuti gadobve. Ze wabe toh gais geb suf enoli bi zuctehic hem bos ro. Livucjez sewtaitu me ibu co dul kozgu keb lev utho kuavo dilvupgah vimelbuf za wicgon vijabdo sude ri. Ne pi uhmuc gapi vo juncagsil utdor pura lotufizir kawufu ivgowjaz lanazi ruz ro dumufazeb. Hilep ecpes dutwu gow lidike adaobi biapbu goni loer hapugop fasi etijer godec jorav nuc zo ge usoger. Sur ditfakil daza miz ez tur wiwliw iwnam zaob le wa tutno.",
+    "bio": "Ifosazo tik tiotkaj wah vumsiclo co nokdoj okozim negak juv ewino igiwep mophud pikem lil hinovre. Wa sorac hopmona ekce us tifojeh valpanod poto jiten fuweb kozeb bossetan piedi. Wemsem he pojve efetimof debluuvu gel upe kikehi lugu hapibu vu sus tu gipi."
+  },
+  "apiKey": "308d31e2bbcd4d9a6c914d21f94c880450c072a06d8e39059ab917f26409fbd5",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
