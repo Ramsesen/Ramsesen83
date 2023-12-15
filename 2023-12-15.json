@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Lawson",
+  "age": 65,
+  "address": {
+    "street": "Suwalo Lane",
+    "city": "Gugrehno",
+    "state": "LA",
+    "zip": "33242"
+  },
+  "contact": {
+    "phone": "(943) 925-1360",
+    "servicePhone": "800723114"
+  },
+  "birthday": "1979-06-03T00:51:49.626Z",
+  "ip": "107.86.111.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce otahe eju bubig eco awho tebo miwobhos wepucta ew nupo at uhna. Benido pe ket jiomete ic nu zeg eg urinkub pi sopvi vi bul ogada ipe eco ok saj. Neziwowa ilofezle ezegama dimwehju oczek vel bol elatezpel domizwiv ijomuhu jiwbu balsa fecafele jat kotutsed vuv. Juzoba weso macu umetot cuzvi da wawbeeho ga jov uhege wirati noaja totif lonco bagekdi.",
+    "bio": "Nazof lofbuto ekeuwezal fovinize aga ukonevi bihaha va wakha sinvu kim ce paufa. Ozfiuba pithe hewsi ratpa milenbew apuaje ahoba bavakow fahug wavnadvut ro lupzu ikco goase. Biv muhuvo icaijonaj zulto ag seofzid zato pamnulmi bofassa ej ih ungo nifes. Neg tenwento nedizo copma of mojhosmo releej mi we zugo fa wugan ficzocme."
+  },
+  "apiKey": "fbaf772161583823b707ecb4b0630e3ae5d3c71a969a277b2ca38f3700f28a3d",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
