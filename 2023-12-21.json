@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Johnston",
+  "age": 21,
+  "address": {
+    "street": "Nozi Extension",
+    "city": "Uljeova",
+    "state": "RI",
+    "zip": "57524"
+  },
+  "contact": {
+    "phone": "(362) 391-9519",
+    "servicePhone": "800529798"
+  },
+  "birthday": "1981-02-20T06:30:39.852Z",
+  "ip": "26.145.24.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Aliriubo kanelfo co uv tat redif gipta bub gaj nij wibiri ewahefun siazde gozze josse. La ot arve wukhuzi tudaneul holez seh da raraz po fik fuwsaev. Mahwan teilazo maknavuv caj dinirdag vesejac cog puzhe nusimho pujuc mari ho sebod aje zed.",
+    "bio": "Momo upu we arrig utiikodi bo vuv sucbug ja wuwni ud gunzadag we tuwmigez ge fuilohi belej. Nobuvbuw ra vahihjos awkecmiz lapivoca siekka cum hekwafjoh iha jarupin dofsu tuzolov lamgewos vof wujel gere pewkujo pilac. Diina taono viful oggalo feturibe heg kolu isnoh ronzu ziz vor vasuhzer leelbon ah hajormu cojse pajen dudnulwec. Tomjuc no mi fovre na mewomar la cer ni walima ufi benogu. Tem ajmepjic kagte fiovolor canolog jod nif dugamfe vekuwgoj onegi genlu ijlu bud jewog fol luucji efigofuc. Cuwoc wov fito kefra fa uk luhge no ju tifomda fijveet gifo of ma heh vaggiv iwuwicze."
+  },
+  "apiKey": "c7bc638bbd8ecd068aad24bcde8d63336fdf837e8633db6afd5da9439bfe16af",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
