@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Potter",
+  "age": 58,
+  "address": {
+    "street": "Feal Avenue",
+    "city": "Rimeuwu",
+    "state": "OH",
+    "zip": "80724"
+  },
+  "contact": {
+    "phone": "(571) 989-8962",
+    "servicePhone": "800335571"
+  },
+  "birthday": "1984-05-12T02:34:14.547Z",
+  "ip": "187.62.158.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuj gomi emtakbef nov duwbaef keg suhnuada ne ej fauba keharde nad ce pufe. Ozsa jecezaal ha ditbugfit duta uv ke fewro cac futfeg danagof de. Nin je zij numel moicu uninis owode daskashuv racarwoz ursum pipbahob var du ri potleteha nulvali emilewe. Baw pah bo nuhrurde mepgeh iwpemib poj emviwcuh ticragag satmu evehogo piwaja mawgatuv sip gapnokiho bufgiiz zurtow ecidais.",
+    "bio": "Ras ipfuci baro meda loiv nis ej re tomu noflis maztekab jacel abecursap patvuwa lobma ibuakeib. Sujuele rihle omo hidanac umojoho surtib mozar doli nec fa gi puhzup ti. Kojutfi te sozfomal bi matruvce adifi row icih pof josine vozbi simcaza bu bo uvutilve."
+  },
+  "apiKey": "be92ce9f41c0408faed6fb8317bb36e377844071db40abe353b9ba19ac46467e",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
