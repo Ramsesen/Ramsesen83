@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Singleton",
+  "age": 49,
+  "address": {
+    "street": "Sencot Junction",
+    "city": "Luhkunce",
+    "state": "KY",
+    "zip": "92289"
+  },
+  "contact": {
+    "phone": "(581) 654-4049",
+    "servicePhone": "800839328"
+  },
+  "birthday": "1988-07-11T09:14:14.219Z",
+  "ip": "3.207.11.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuevevu wub ra ekmaduf cufoada rote pakkus abunapi kogi bufohu zudiwo zudbe ulav. Gi vimtem ve dowi wo ja hohom ja meod pevaghih hohlit konvigek jegbarmu tuvtofo jadma. Bav bifkuf gehesba dafkowvu eja hi kuf jeksuz am pa pilivof filrutok lamasaz.",
+    "bio": "Ziegehon gafreggiz piwfuzol rokim gi kej gifacno redetsub kijap ahiiweku nasahe hahope ir medudik. Pepoaza omeihoeke wucoeb pe kuttu da nisohek wowa zunen vus egmuder tugo podke. Nucojmep ebo zid gapoc lemcemve woija uzeteza miet de kib egivaruli lonpimwac bilotjin ha. Batovbel nuker vonih hidfi fup sa gedilaj musejsah larvohuti licud lo vijkic juwpo ribcupug bi."
+  },
+  "apiKey": "b6f9394dd2c3e38b5734331911b9120c26f9a8f6066ddbd3ce735da3a0bd9d81",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
