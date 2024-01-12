@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Murray",
+  "age": 30,
+  "address": {
+    "street": "Cebfi Square",
+    "city": "Veclema",
+    "state": "OR",
+    "zip": "50379"
+  },
+  "contact": {
+    "phone": "(451) 949-2889",
+    "servicePhone": "800712915"
+  },
+  "birthday": "1983-07-12T09:20:56.516Z",
+  "ip": "231.228.156.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Mif cetwoj fi hiiputa ruum filuljo vu vepiv koemo donuc heze ebdakigu dutzujog bizi. Omowec fa feznak ufru bi maziwos badbafaj ucujujo metak hupve civeja ses res nedeke remetujo mepafzew jibiat odapac. Nolgeed juk geod imhigab nekrimic ta metgahi tah ajaaboz zomumaro jahlutisi ra ba ugije.",
+    "bio": "Vo rebmu nuoco suj oruih su wo ubciditi nuco ojaj zijun simice wev ufi hemgemug. Ihamugup oke gubugmum goguhow enwi taba hezla itewida kiodjo hi dule fovfeful sih hanunwuv seci ba fofwazfeb. Savtuhin wis pejuhu covufib mu piksovuji gi pe hinemees do gagiku akatga wakul azad cul dobak resevja. Namlo wefwecdi civpopanu vamwoip jatvuf ke ezbaco howu petdi faksobes pijdejfim abu nahape lace uzefojko duhaska. Vibuvva nebigeini la ewo te vi hos uzo ze omsopa varhosaw ke jubmuwvo tez. Uv mojwi rohitvum dufsuga wigca onazji dub paf niccur muke gov boh kuokli vikupip obmig daratez cotvaf isa. Cubi cek hu utofek eggiju kihip ka hug awuol pugbegice dap lounde fectis zufeen."
+  },
+  "apiKey": "9596e5dd0ceb47d58a485ab494619acdfc05552b834b919be7181b8022731304",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
