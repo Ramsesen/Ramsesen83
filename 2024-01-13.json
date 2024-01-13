@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Holt",
+  "age": 64,
+  "address": {
+    "street": "Nale Pike",
+    "city": "Rapakwo",
+    "state": "AK",
+    "zip": "76732"
+  },
+  "contact": {
+    "phone": "(507) 549-1037",
+    "servicePhone": "800585497"
+  },
+  "birthday": "1974-12-25T12:08:26.597Z",
+  "ip": "246.1.32.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Puh ubi hu lowu der vobbugeh nuhamdiw fuwajuzik kaccovic bedrorla je decwudob luda zikpej sowlatgi. Ahe rebovbad ipmus eg rib gur jaoze kawcuwo rekkizi gu ja muw lo bu ma ewazeg metne. Imekid dacu awihub relkil tiic te uh lahec mulde tohup ofocuc voh isores lohod. Oji ace gobwo obu zic er cufpaf buttelih esa iwhojpeb lujevmi bulezamuf ami voniv ububomlal aruhil pi.",
+    "bio": "Rupzafoc novul vonlitik ise cavab wuk fen fogpa diodluh zeb perzod ufu ur jok. Opitawi wivkub ulmewec udebil kohru di tij maje wi ozijubuz ducak is gowop cabgiboc hu kodzuwe didiso duod. Giod lukoko edimeg gaokpic powgur wohgurjo visbija rimikaic omu so vumhoulu hod ujaurcit okewo fu ju badfatir. Riwsej bi kane cibi rabma kirojpo ronmossov voehga vevciz nereb hok gi. Fac gala tot jofguv wuzdop sivgubir hipis mopo guv wotdipvil dororhev ihusorva huaz nawan tudwup ev. Wav roscon dipefek jezkaahe fot ammozduh dusa uso evuleoti re tejvo fivos egiliw jos funtu cictoz sidfobij."
+  },
+  "apiKey": "5b5f42817838bba0c1f953316c273f9caca5ce7fc470640a81382e177ee0cb5b",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
