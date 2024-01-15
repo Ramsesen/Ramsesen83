@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Evans",
+  "age": 64,
+  "address": {
+    "street": "Akisi Square",
+    "city": "Pocuun",
+    "state": "PA",
+    "zip": "05323"
+  },
+  "contact": {
+    "phone": "(866) 907-5234",
+    "servicePhone": "800286276"
+  },
+  "birthday": "1977-07-03T02:01:40.003Z",
+  "ip": "63.228.202.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaf pimo zodicag iddi bauticu zot ca ta siwa in sukwo uvewip iniatone kibu. Ticsora vohobiw bo kosom je sujiv rofhazlul aj dup vijbu cuhnak izale haguv ecdarif da dihifonu igunaz cusakse. Lag vebmeor tacafod cugihe jakufjag efowabde jeg keze zonebu cizke lov ci ubjaswic. Tih nel zo hiwahkif wihozpom egufi ewcuofi jogcugno ruz henmukeg fezpub wigu.",
+    "bio": "Cegi fifsufire dum tumog hulacna puzicla vedotvuj iniagu ujfa jeob meb rakek mip mez no. Res pewuf megikej roho ciksorfe laj vesre op veimmu ka ehaba lerdab ga dipuh. Toke zesab ga wavumob roiljug tadbufka evo wov jeptedaz le oda zat zaeghig dovbur nurvad bikel."
+  },
+  "apiKey": "a5009e4ab2e792c5f1cee4e1b983caf402204028012c10b1bb8c9f71c19e0190",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
