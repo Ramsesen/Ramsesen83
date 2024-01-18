@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Grant",
+  "age": 39,
+  "address": {
+    "street": "Sojrah View",
+    "city": "Okajovwo",
+    "state": "OK",
+    "zip": "59408"
+  },
+  "contact": {
+    "phone": "(777) 924-5165",
+    "servicePhone": "800527478"
+  },
+  "birthday": "1960-12-10T13:02:06.461Z",
+  "ip": "43.14.73.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Teh ahne gubgello cezosda og cognas zel cid suba mu it cic bi batze balsej. Dela jaklo hib viava oha ileeda muko wog obi oluuw etidu hi tijhuh cekiz obedupef. Uzo egi nup bifdavaf awona tecaj cevci ni zurwohnok jogat ug jaw gicla. Kig lusi avibokpu das hol wad cabho de babjilu suz colomwak bivuf.",
+    "bio": "Jad ri kusifode viddacgit gopjag jarha te veaju peodi vudsati lo ze lonfahje jed utefocto nennu hemcuf icfesbot. Acat vu hu homa igi apesaturo noapazub pohob hetugig ozjupmu gaejezog nides omupaof wipompuh to. Ade wuvze toow ij haha joppuub bomlid we dosadal jutnihva guwo pucfejpu var. Ka nakovwec pavgib jeb muomlo roviina bipto budaja lifherhab vi gajawo zak putom den wekivug ga ob hekvub."
+  },
+  "apiKey": "936c095c099653b6ab32d70e0969e5035aa9b9af4bb407b191f5651ca8abf7ee",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
