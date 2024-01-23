@@ -1,0 +1,26 @@
+{
+  "name": "Joel Page",
+  "age": 42,
+  "address": {
+    "street": "Ziggu Road",
+    "city": "Pihjepka",
+    "state": "VA",
+    "zip": "99049"
+  },
+  "contact": {
+    "phone": "(926) 294-7747",
+    "servicePhone": "800971929"
+  },
+  "birthday": "1997-04-01T18:20:40.712Z",
+  "ip": "187.85.149.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu cehboezo hatfawop moc caflocud bo kobol sejkez rir gaakuv cisicmu mukwas del dud zirakdew kus. Lanagsid zeruhece ughucaf na gehir et ama aw ejpero ba oc demo we vabdetop. Heikiku hazebmi po ak fubvezeka fusbocoh jalwo defaco suedi lid ecicik jonjas foalo duralec kapmu he ozu fahop.",
+    "bio": "Butwir forredsub mucigmi unipeico zilnupun buj ogwor uv zukuke zo madvip cuwpefol ni punobzus fetituno jer. Dov agrem pemga mabizel defmi ir ginuvo wucehe biknasit kadanep josla sihhu hureme jujem. Zibuco ti teinni ivwep bi huresa cuswe imsocni sabibe vedol pa ecel pikdat harmukte up kioz remerhir. Lovihemo mu adzugkoz ehu gezcufmoh olduh wo uvavu genvolup le se kehucfil ido wo wih. Obalonob howfarer azmor mejpuwih zuw natsa sukkiti ha nibagzu uk tel fo dimge uta valgifev besvecjag. Atvo riw vebbekeg nec iddom el ze apdo ga cuggib himvu luku zisco. Di redcevis domted ude kiugu fingi vamem cag zegjood jamohat ugagifda kejkusruw adgem."
+  },
+  "apiKey": "0199bb3f61291f0260cd87758e4c7e554cb0b916ccacc485216b1f1453b96e1e",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
