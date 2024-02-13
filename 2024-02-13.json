@@ -1,0 +1,26 @@
+{
+  "name": "Evelyn Morales",
+  "age": 43,
+  "address": {
+    "street": "Kases Pike",
+    "city": "Kugkarol",
+    "state": "MD",
+    "zip": "94446"
+  },
+  "contact": {
+    "phone": "(945) 814-1817",
+    "servicePhone": "800166484"
+  },
+  "birthday": "1995-04-19T19:27:12.327Z",
+  "ip": "15.28.173.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Le vazad ceh vundu tunve ba wav mekufi lepel fiz razughev teze um bil silodo uvimazu pihujupi. Azzojvi pesof inowor eljiul umiwobho inajer dicife tet bipif rojonu mil avcagdiv weeko. Oku fomalig jozjisug tejuzaf me da fe nupiruki umzapizi vuap hinsafci wi ho.",
+    "bio": "Umaco atabulzab nihe egjuba telepsag ogaloge nehumfi eh cun mozotdej mancirota dojpu tidpibir tondazcev zokros. Viambo jaj isajec fusma likva zih lebot ih azlumsav ukkulse vitbibzo ti ribhen eza uzwi ravajwap gomkah. Apenu von husutun fe esueldu zemic leezmo pobefef naszi izrizuv tikki tesjuvop firuwja imsu."
+  },
+  "apiKey": "17b73944b96b3f8847818ec07b2a380cc6cd51678c5ab2df86584f42b71f3488",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
