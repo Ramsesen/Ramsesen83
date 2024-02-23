@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Schwartz",
+  "age": 21,
+  "address": {
+    "street": "Miska Grove",
+    "city": "Losegsoh",
+    "state": "NY",
+    "zip": "60430"
+  },
+  "contact": {
+    "phone": "(400) 624-5175",
+    "servicePhone": "800984797"
+  },
+  "birthday": "1978-10-25T02:30:28.793Z",
+  "ip": "22.7.138.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogbazhe les da balufemak si hasca birowwo usi ulomitka ujacu wuz uk cuzhic ku lothuvi jevusve ciaj hu. Giokoze ve tiguc kincim vuco isse zu domwej vo de fuwafneb abmese tic fiub ehumam nagwowve. No zakec nefwo teole zice vo ninfad lik namrok give heloro uhdu edvefov farirmeg fifda tuwipof buh.",
+    "bio": "Tabowokij hebucufo raudu zenapfef jef jodi najsen ziltef haisebu wegnos ezsaz wid poc baissi. Powebo gazsa hipfe voro bi jil ev avo becloc loifake avoafu sawpu. Dowgora roumusi kejon pem gotroceru pa ehonole ozgefhez fuhez kanrereh ih jure newi fuzazev."
+  },
+  "apiKey": "8f2b5698e9f056fa9121314bafd22a012f070aa478bb2228f620c8ed5be2c3ce",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
