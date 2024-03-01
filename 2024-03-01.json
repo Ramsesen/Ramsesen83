@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Singleton",
+  "age": 20,
+  "address": {
+    "street": "Vusa Pike",
+    "city": "Todacja",
+    "state": "KS",
+    "zip": "63992"
+  },
+  "contact": {
+    "phone": "(964) 792-2084",
+    "servicePhone": "800515942"
+  },
+  "birthday": "2001-05-12T19:25:21.688Z",
+  "ip": "101.225.18.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Itamazu zecgew tipu miizo codarve doba tahitu seg sah ahvapecu nomecjij avuosa. Mo goametav hoato saltun toubom hujirezi uta betrelu mibiol omkaw lim rut zoga. Wehikfin lowra pokek cecem pewin jashu akelid toja bejwepiv tucjati pubcis cungok piclikgo wewkifre hafu zafje gukfu helev.",
+    "bio": "Lul fo rasubnew bofoj ifuulimuh fur rudi cifdup ihsiuv cowtasto fukbe moragtam odonadur fukcujib ib. Nowamre akjekej gavorlo de solkocun mahis zel pimojru nunpagar awuraphuf cic zikon dubor giwi efu fezna. Wofsu birno taw tesawuno gijopnod juban ralihug ropnu zifac zut gaudjit fuhruhvuk emuusutu lidtaum akgetgu."
+  },
+  "apiKey": "c9c6e5143a7115dcca1e6d187706165c6eff290864c29a89add7a7c5b8541ee6",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
