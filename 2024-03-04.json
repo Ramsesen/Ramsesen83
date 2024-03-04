@@ -1,0 +1,26 @@
+{
+  "name": "May Daniels",
+  "age": 42,
+  "address": {
+    "street": "Riwno Trail",
+    "city": "Daufisor",
+    "state": "OR",
+    "zip": "51524"
+  },
+  "contact": {
+    "phone": "(504) 947-5422",
+    "servicePhone": "800546139"
+  },
+  "birthday": "1976-08-30T23:41:28.034Z",
+  "ip": "4.26.98.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Nehilakih se duho suotvo ceca zu ad nefek mias ho vatfe anarejwug ome bu emisudik. Gisa dit mujki he dumuse didu li zof kuflojefa evi bello udeito sa likohri. Cu wogzudu dene rapafegat daozimu ohiki ma ogede vu taje dubku nelbodib wa tad.",
+    "bio": "Ma divoj micerim vi fivcod juskupek koget uku poven si cikek toh vorevozo gojuv nouj vep osmehem. Bak iva nofe katezukod ra hun ogzooc soh nibukij welbognab vu cukofso hoji uvacu. Noipo dasa pewled dik lejlobo zadtofoz godbe hobutopid dibmerma len dug backot vuztuzniv."
+  },
+  "apiKey": "c83253d0fb3a2e63bdcf0c4fc522f2f945e6b4851c2eab54bcf43aeaae3f19f1",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
