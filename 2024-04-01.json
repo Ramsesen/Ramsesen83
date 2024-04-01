@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Summers",
+  "age": 52,
+  "address": {
+    "street": "Iwegi Pike",
+    "city": "Ekudejje",
+    "state": "LA",
+    "zip": "92840"
+  },
+  "contact": {
+    "phone": "(840) 499-3003",
+    "servicePhone": "800486345"
+  },
+  "birthday": "1978-10-24T21:10:49.932Z",
+  "ip": "180.102.237.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Gacdiles miguunu zat iro du ijak usuci dozudeha podhefu vuhakbul azvav wehilar ziguzogu nefesu seswag. Oferinli ehmuwuf zok um no sowadda dopsus cu ok mopgo nejopmiz cadlujnul zoomujo. Mofoh bumoj zof edkapga fekva pa fis wa irinu oh li uletopas rivimdoh.",
+    "bio": "Ah widduhkuf aroliwde bedaku al retavdan gigdihjog iledosfa wocwabfek cehrekfap atofjir mijowamo. Suz zelgog moiz naozecif dahujebe nutvi cubuden celemaci alha pazze kuzapho ri bi on be tah mu bu. Num wigoru fin kumiazo sewoc ki talwuduk vigzov mekef be dovjut ci ga. Hem kef kaoc ku notkajnoj jon za gikigajur wib imo nig sazpohoz lomah cad vilfob kezgu ewjune."
+  },
+  "apiKey": "8834a84ae2c8ac78fe9a0c13dbe4bf04d900aff257e34f467d0e9611d7edc733",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
