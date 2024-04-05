@@ -1,0 +1,26 @@
+{
+  "name": "Roy Wheeler",
+  "age": 26,
+  "address": {
+    "street": "Hagi Boulevard",
+    "city": "Mogizi",
+    "state": "AZ",
+    "zip": "27759"
+  },
+  "contact": {
+    "phone": "(573) 594-8303",
+    "servicePhone": "800282261"
+  },
+  "birthday": "1981-12-04T07:18:43.297Z",
+  "ip": "86.178.232.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Mip ad evi go roc gidopda dahjajnu jiptelzo wevortu wifsuthas puhij fembi diwiap pagefote rocuw nalatij hu edi. Kobaig epda kastuf foda ivofaruvu ez ep lej fanhad hu jeswodef uco kuma kicep segehva. Vefnu mavleva rovad voida ve ni lolotevug hadaz ufe li cikak mivejtev vih gudvirgow.",
+    "bio": "Opedwel puora wosedve cu iloto ce bu ma kebsolfaw ginpevud topig dabol bachozuz zahoz ap raran. Esoce juvu cas rit rivpuf ob upu lavsavvig onfu joksupuj ujjiwmi ruw ce itdikti diktoweja carpuco topuce. Labku ec tevris ubnuk febev so tihwacav foc di ciusdog amno hupi gazujwer une."
+  },
+  "apiKey": "fe7bb9561a262ce8ba85335a7f3f66ea2c14508568ff4f9efa820cafcfc1ae4f",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
