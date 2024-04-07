@@ -1,0 +1,26 @@
+{
+  "name": "Max Newman",
+  "age": 31,
+  "address": {
+    "street": "Reltet Road",
+    "city": "Jirzudcu",
+    "state": "AZ",
+    "zip": "49051"
+  },
+  "contact": {
+    "phone": "(441) 567-9271",
+    "servicePhone": "800493896"
+  },
+  "birthday": "1968-11-27T01:18:24.993Z",
+  "ip": "53.100.243.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Jon vep lamip codopeuko torij kaguf gifugo ba bosfa hih gevug roz duhe zooc ge moja tijerhil. Imiadka hi lojfa dojine kogseehe rem eru li ifo wabledif vacuk gadu. Gin vogni fah ba ra reogwap atenipuj ke ludzo kobe fupozgo gom. Icpiwmar pozeja saud fiblu wuvgizap seodura begtohit pebwancug hur men uva moarbo hajmolwi reneeca ip so. Asehen afnichuj oparug ozlelpo nuv eb lunsas osulep ha sanovino su rujheobe jokev radki aginop. Soclubez rub osuvoafi idduwev nacifha ak jeponmom du hobak pa foh zobopo to. Cirjodo ruebi fon asozu jez fiw selcu zud utwaloz nizfuso imiini bivolcav diw nagebu sina aveoruh.",
+    "bio": "Mobocna levlivuf opo kicve bir rum zad tohobji pelwa ikumajbob hafidpud manodbag jipfib lo tet golpas tekor careewi. Igomu ohubi ibezod busitait go gugrucah ovofatu toic lunofep zet onomew aw up go. Jedurub wahitred anuhorub oha cawebu ofi ehosfij uv gu ke pin ses."
+  },
+  "apiKey": "3e98096db9bd98f3563f45dfbc6e8141a8609acfffddfa61b84295bfa59cd51e",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
