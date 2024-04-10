@@ -1,0 +1,26 @@
+{
+  "name": "Peter Blake",
+  "age": 64,
+  "address": {
+    "street": "Ewjup Ridge",
+    "city": "Jadrarim",
+    "state": "AZ",
+    "zip": "12942"
+  },
+  "contact": {
+    "phone": "(687) 562-2152",
+    "servicePhone": "800525785"
+  },
+  "birthday": "1984-05-12T05:45:57.853Z",
+  "ip": "236.82.212.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Jol vacuh vup ve ficli gak zejfin oveet sutusa co soobo wilbu cuznek derosi kemhe. Hatanmal rifkaufa halapu mizu pip lilurim mu me ide gafisvi rajukhet vopgibnun cetkoaf lota. Tijvopala guton jikevait sihmada lepaniz atiwor waruwsol wecivvi hatov onnoz pocpiv mu jojool sufke mu cit banen ec. Ke zikoan tiir nen cijhik cezricak fefoh zukkuvut nojow tek da cini ifete humbik dipuj cu iko. Foji badzi ega copdoosa canemfev ku bos wogotag vopo uzjaton wi biane od afenor wucje ru lumbisle.",
+    "bio": "Ri lobnof zo nononitak bov arcog rufudip ito ila tol jahba cimahe je. Ufwiruw waene wecej jodpotnum du tozow hoveg vana ovifa mur juowmeh famun ora. Nep jeda pimuzsog lumacu foepo kagmofji dobe ok bobegaj wik vaeh kopi jutriac adba ogi teekegel zuzija uf. Carru ma avo gommacope se ti kiwa vudogur tehde gihifuwe sujum ji ahuohe upuromsu sugo ji de zuumhoj."
+  },
+  "apiKey": "232deaf1c198b9ddd8d9ccac555023f7b024acc9e1e5ba8db5fffdda8a3acf6e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
