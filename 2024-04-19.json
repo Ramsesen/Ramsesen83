@@ -1,0 +1,26 @@
+{
+  "name": "Sally Tyler",
+  "age": 22,
+  "address": {
+    "street": "Wedo Avenue",
+    "city": "Otuebeod",
+    "state": "IA",
+    "zip": "11262"
+  },
+  "contact": {
+    "phone": "(762) 619-3883",
+    "servicePhone": "800387716"
+  },
+  "birthday": "1987-04-04T01:44:31.931Z",
+  "ip": "128.206.114.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Uj nebik je jallij gu jowu ubi pak ifhe jiifa efodilac ah ugemeegi vogu home. Ko jebavab sebam iv ari zuntupor le wewawa pe vuj ka ihagu arohavjo vivwu woffivet wa ru judwiopo. Gifco wag ajozonzih kuh nidas peccib pa vun pivusutu puh monazaf at muado sufpipu.",
+    "bio": "Ajazec amiw ifgi vov kekuj du pos ra taacogu opkihlad wucazi somuzbo no fef be hunbi hopipas lu. Zir ni veznigat agu duwfir zihibilop vu ircugi gozkab igojejjev pilpic to kapus. Dirle jojajeuvo wulkunviz bijcamo ezesajpa bec gojge redha vadojwa sic megriut jeowza venojoh decokim."
+  },
+  "apiKey": "89527961b4b3f3812ec81762e0a35a81cf6c33bb665d66b03e5687f75a8d70ff",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
